@@ -1,0 +1,8 @@
+Testando o merge entre esse documento e seu irmão.
+Essa é a versão 2
+Todo o seu conteúdo é igual ao da versão 1.
+Exceto por essas duas linhas...
+O que será que acontece quando juntamos os dois?
+
+Eu menti... Essas linhas também são diferentes da versão 1.
+E agora?
