@@ -1,14 +1,18 @@
 ﻿Você assistiu à final da Copa do Mundo?
 
-R: Sim
+R: Mais ou menos, assiti o segundo tempo quase todo. Não lembro direito kkk
 
 Caso tenha visto, para quem você torceu? E qual placar você chutou antes do jogo?
 
-R:França. 3x0
+R:Nenhuma das duas kkkk. 1X0 França.
 
 Qual sua lembraça favorita em época de Copa do Mundo? (Algum jogo ou lance marcante, momentos em família ou com amigos, qualquer coisa)
 
+<<<<<<< HEAD
 R:É tetraaa
+=======
+R: Os amigos comemorando os gols da Alemanha na copa de 2014, já que tudo estava perdido pro Brasil e o uniforme da Alemanha parecia com o do Flamengo.
+>>>>>>> atividades
 
 Em que ano o Hexa vem?
 
@@ -20,8 +24,8 @@ R:Canarinho pistola
 
 Por que o Uruguai tem 4 estrelas na camisa se eles só venceram as Copas de 1930 e 1950?
 
-R:Tem? 
+R:Isso se chama fé kkkk
 
 Deixe sua mensagem para o Galvão:
 
-R: Vai Neymar
+R: iiih neymar caiu de novo. Pode isso arnaldo???
